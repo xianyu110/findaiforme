@@ -1,6 +1,6 @@
 # FindAIForMe — Full AI Tools Catalog / 完整工具目录
 
-> Generated from the live catalog snapshot on **2026-10-26**. Total: **9394** tools.
+> Generated from the live catalog snapshot on **2026-10-26**. Total: **9395** tools.
 >
 > 数据来自 FindAIForMe 目录快照。官网：[https://findaifor.me/](https://findaifor.me/) · 提交工具：[https://findaifor.me/submit](https://findaifor.me/submit)
 
@@ -9,7 +9,7 @@
 - [Image & Design / 图像与设计](./image-design.md) — **2037**
 - [Video & Audio / 视频与音频](./video-audio.md) — **741**
 - [Writing & Content / 写作与内容](./writing-content.md) — **1260**
-- [Coding & Dev Tools / 编程与开发](./coding.md) — **525**
+- [Coding & Dev Tools / 编程与开发](./coding.md) — **526**
 - [Productivity / 效率工具](./productivity.md) — **1330**
 - [Marketing & SEO / 营销与 SEO](./marketing-seo.md) — **992**
 - [Voice & Translation / 语音与翻译](./voice-translation.md) — **310**

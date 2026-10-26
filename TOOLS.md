@@ -1,11 +1,12 @@
 # FindAIForMe — All tools (flat list)
 
-**9394** tools · updated 2026-10-26
+**9395** tools · updated 2026-10-26
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
 
 ## Recently added / 最近上架 (2026-10-26)
 
+- [agent-qa](https://vostride.com)
 - [Fal](https://fal.ai)
 - [Replicate](https://replicate.com)
 - [Cline](https://cline.bot)
@@ -4088,7 +4089,7 @@ Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
 - [笔尖AI](https://bklw.cheerup.vip/pc)
 - [蛙蛙写作](https://wawawriter.com/app)
 
-## Coding & Dev Tools / 编程与开发 (525)
+## Coding & Dev Tools / 编程与开发 (526)
 
 - [60sec.site](https://60sec.site/)
 - [60sec.store](https://60sec.store/)

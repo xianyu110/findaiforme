@@ -15,7 +15,7 @@
 
 ## 目录规模 / Catalog size
 
-当前收录约 **9394** 个 AI 工具、**11** 个分类（更新日期：2026-10-26）。
+当前收录约 **9395** 个 AI 工具、**11** 个分类（更新日期：2026-10-26）。
 
 - 按分类浏览完整列表：[`tools/INDEX.md`](./tools/INDEX.md)
 - 扁平全量列表：[`TOOLS.md`](./TOOLS.md)
@@ -27,7 +27,7 @@
 | Image & Design | 图像与设计 | 2037 | [tools/image-design.md](./tools/image-design.md) |
 | Video & Audio | 视频与音频 | 741 | [tools/video-audio.md](./tools/video-audio.md) |
 | Writing & Content | 写作与内容 | 1260 | [tools/writing-content.md](./tools/writing-content.md) |
-| Coding & Dev Tools | 编程与开发 | 525 | [tools/coding.md](./tools/coding.md) |
+| Coding & Dev Tools | 编程与开发 | 526 | [tools/coding.md](./tools/coding.md) |
 | Productivity | 效率工具 | 1330 | [tools/productivity.md](./tools/productivity.md) |
 | Marketing & SEO | 营销与 SEO | 992 | [tools/marketing-seo.md](./tools/marketing-seo.md) |
 | Voice & Translation | 语音与翻译 | 310 | [tools/voice-translation.md](./tools/voice-translation.md) |
