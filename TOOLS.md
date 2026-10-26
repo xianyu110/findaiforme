@@ -1,11 +1,33 @@
 # FindAIForMe — All tools (flat list)
 
-**9395** tools · updated 2026-10-26
+**9415** tools · updated 2026-10-26
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
 
-## Recently added / 最近上架 (2026-10-26)
+## Recently added / 最近上架 (2026-10-26) · CN Indie
 
+- [Aitoword](https://aitoword.online)
+- [VideoDance](https://videodance.co)
+- [seedance 3.0](https://seedance3.si)
+- [PalaPili](https://palapili.com)
+- [AI Image Combiner](https://ai-image-combiner.com)
+- [AI Dance Generator](https://danceaigenerator.com)
+- [匠工具箱 TakumiKit](https://tools.takumikit.com)
+- [Paper Texture](https://paper-texture.com/paper-texture-overlay)
+- [Everygen AI](https://everygenai.io)
+- [UUScribe](https://scribe.uustudio.cc)
+- [巨浪 AI](https://jvlangai.com)
+- [Voltip](https://voltip.firlab.app)
+- [VideoTextRemover](https://videotextremover.ai)
+- [SparkPix](https://sparkpix.ai)
+- [MagicRemover](https://magicremover.org)
+- [AI Genjutsu](https://aigenjutsu.org)
+- [Rainku](https://www.rainku.com)
+- [Tuneku FM](https://www.tuneku.com)
+- [Flux3Max](https://flux3max.net)
+- [ViewHTML](https://viewhtml.app)
+
+## Recently added
 - [agent-qa](https://vostride.com)
 - [Fal](https://fal.ai)
 - [Replicate](https://replicate.com)

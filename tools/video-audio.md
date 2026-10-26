@@ -1,6 +1,6 @@
 # Video & Audio / 视频与音频
 
-**741** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/video-audio)
+**752** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/video-audio)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -745,3 +745,14 @@
 | [ZSky AI](https://zsky.ai/) | https://zsky.ai/ | freemium |
 | [万兴天幕创作广场](https://tomoviee.cn/) | https://tomoviee.cn/ | freemium |
 | [创一AI](https://creatifyone.com/) | https://creatifyone.com/ | free |
+| [VideoDance](https://videodance.co) | https://videodance.co | freemium |
+| [seedance 3.0](https://seedance3.si) | https://seedance3.si | freemium |
+| [PalaPili](https://palapili.com) | https://palapili.com | freemium |
+| [AI Dance Generator](https://danceaigenerator.com) | https://danceaigenerator.com | freemium |
+| [匠工具箱 TakumiKit](https://tools.takumikit.com) | https://tools.takumikit.com | freemium |
+| [Everygen AI](https://everygenai.io) | https://everygenai.io | freemium |
+| [UUScribe](https://scribe.uustudio.cc) | https://scribe.uustudio.cc | freemium |
+| [VideoTextRemover](https://videotextremover.ai) | https://videotextremover.ai | freemium |
+| [MagicRemover](https://magicremover.org) | https://magicremover.org | freemium |
+| [AI Genjutsu](https://aigenjutsu.org) | https://aigenjutsu.org | paid |
+| [Flux3Max](https://flux3max.net) | https://flux3max.net | freemium |

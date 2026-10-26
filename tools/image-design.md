@@ -1,6 +1,6 @@
 # Image & Design / 图像与设计
 
-**2037** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/image-design)
+**2040** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/image-design)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -2041,3 +2041,6 @@
 | [漫画翻译器](https://ichigoreader.com/) | https://ichigoreader.com/ | free |
 | [象寄 AI](https://xiangji.ai/) | https://xiangji.ai/ | freemium |
 | [青虎 AI](https://iqinghu.com/) | https://iqinghu.com/ | free |
+| [AI Image Combiner](https://ai-image-combiner.com) | https://ai-image-combiner.com | freemium |
+| [Paper Texture](https://paper-texture.com/paper-texture-overlay) | https://paper-texture.com/paper-texture-overlay | freemium |
+| [SparkPix](https://sparkpix.ai) | https://sparkpix.ai | freemium |

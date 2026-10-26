@@ -75,6 +75,14 @@
 
 ![Tool detail](shots/04-tool-detail.png)
 
+
+## 中国独立开发者 AI 新站
+
+本站每日从 [chinese-independent-developer](https://github.com/xianyu110/chinese-independent-developer) 同步 **AI 相关** 独立开发者新站到官网 [「最新 AI」](https://findaifor.me/) 板块。
+
+- 镜像说明与最近列表：[`indie/README.md`](./indie/README.md) · [`indie/AI-RECENT.md`](./indie/AI-RECENT.md)
+- 完整非 AI 列表仍以独立开发者上游仓库为准；本仓库只做 AI 发现与去重收录。
+
 ## 关于 / About
 
 - 品牌：FindAIForMe / findaiforme

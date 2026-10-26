@@ -1,6 +1,6 @@
 # Voice & Translation / 语音与翻译
 
-**310** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/voice-translation)
+**312** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/voice-translation)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -314,3 +314,5 @@
 | [YouTube Transcript Generator](https://transcriptgenerator.org/) | https://transcriptgenerator.org/ | free |
 | [Yueyin AI Dubbing](https://yueyin.zhipianbang.com/) | https://yueyin.zhipianbang.com/ | freemium |
 | [Zeemo](https://zeemo.ai/) | https://zeemo.ai/ | freemium |
+| [Voltip](https://voltip.firlab.app) | https://voltip.firlab.app | freemium |
+| [Tuneku FM](https://www.tuneku.com) | https://www.tuneku.com | freemium |

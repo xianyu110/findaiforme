@@ -1,6 +1,6 @@
 # Coding & Dev Tools / 编程与开发
 
-**526** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/coding)
+**527** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/coding)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -530,3 +530,4 @@
 | [ZeroThreat](https://zerothreat.ai/) | https://zerothreat.ai/ | free |
 | [Zhipu AI Open Platform](https://bigmodel.cn/) | https://bigmodel.cn/ | free |
 | [Zilliz](https://zilliz.com/) | https://zilliz.com/ | freemium |
+| [巨浪 AI](https://jvlangai.com) | https://jvlangai.com | freemium |
