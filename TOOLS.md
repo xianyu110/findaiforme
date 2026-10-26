@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**9379** tools · updated 2026-10-25
+**9394** tools · updated 2026-10-26
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-10-26)
+
+- [Fal](https://fal.ai)
+- [Replicate](https://replicate.com)
+- [Cline](https://cline.bot)
+- [OpenHands](https://www.openhands.dev)
+- [Wispr Flow](https://wisprflow.ai)
+- [SambaNova Cloud](https://cloud.sambanova.ai)
+- [Doubao](https://www.doubao.com)
+- [ChatGLM](https://chatglm.cn)
+- [Haiper](https://haiper.ai)
+- [Mage Space](https://www.mage.space)
+- [Microsoft Designer](https://designer.microsoft.com)
+- [FriendliAI](https://friendli.ai)
+- [Relay.app](https://www.relay.app)
+- [Roo Code](https://roocode.com)
+- [Poe](https://poe.com)
 
 ## Recently added / 最近上架 (2026-10-25)
 
@@ -21,6 +39,7 @@ Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
 - [LLM7](https://llm7.io)
 - [Google Colab](https://colab.research.google.com)
 - [Cerebras Inference](https://www.cerebras.ai/inference)
+
 
 ## Image & Design / 图像与设计 (2037)
 
