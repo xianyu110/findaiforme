@@ -1,6 +1,6 @@
 # Coding & Dev Tools / 编程与开发
 
-**525** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/coding)
+**526** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/coding)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -10,6 +10,7 @@
 | [AdaL](https://adalagent.ai/) | https://adalagent.ai/ | freemium |
 | [Adalo](https://adalo.com/) | https://adalo.com/ | freemium |
 | [AdeptLR](https://adeptlr.com/) | https://adeptlr.com/ | freemium |
+| [agent-qa](https://vostride.com) | https://vostride.com | free (model-provider costs separate) |
 | [Agent FM](https://agentfm.ai/) | https://agentfm.ai/ | freemium |
 | [AgentQL](https://agentql.com/) | https://agentql.com/ | freemium |
 | [Agenty](https://agenty.com/) | https://agenty.com/ | freemium |
