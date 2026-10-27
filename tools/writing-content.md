@@ -1,6 +1,6 @@
 # Writing & Content / 写作与内容
 
-**1262** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/writing-content)
+**1263** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/writing-content)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -1266,3 +1266,4 @@
 | [蛙蛙写作](https://wawawriter.com/app) | https://wawawriter.com/app | free |
 | [Aitoword](https://aitoword.online) | https://aitoword.online | freemium |
 | [Rainku](https://www.rainku.com) | https://www.rainku.com | freemium |
+| [审美工程](https://leenlbma.github.io/aesthetic-engineering) | https://leenlbma.github.io/aesthetic-engineering | freemium |

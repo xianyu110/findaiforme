@@ -1,11 +1,22 @@
 # FindAIForMe — All tools (flat list)
 
-**9431** tools · updated 2026-10-27
+**9440** tools · updated 2026-10-27
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
 
-## Recently added / 最近上架 (2026-10-27)
+## Recently added / 最近上架 (2026-10-27) · CN Indie
 
+- [Spaceora](https://spaceora.app)
+- [OpenMontage Drama Studio](https://openmontage.dtok.io)
+- [Lumno](https://lumno.kubai.design)
+- [ReelMorph](https://reelmorph.app)
+- [CarWrapDesign](https://carwrapdesign.app)
+- [YIX](https://yix.ai)
+- [Ideoy](https://ideoy.ai)
+- [ShotTide](https://shottide.com)
+- [审美工程](https://leenlbma.github.io/aesthetic-engineering)
+
+## Recently added
 - [Coze](https://www.coze.com)
 - [Tongyi Qianwen](https://tongyi.aliyun.com)
 - [Wenxin Yiyan](https://yiyan.baidu.com)

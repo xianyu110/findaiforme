@@ -1,6 +1,6 @@
 # Video & Audio / 视频与音频
 
-**752** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/video-audio)
+**757** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/video-audio)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -756,3 +756,8 @@
 | [MagicRemover](https://magicremover.org) | https://magicremover.org | freemium |
 | [AI Genjutsu](https://aigenjutsu.org) | https://aigenjutsu.org | paid |
 | [Flux3Max](https://flux3max.net) | https://flux3max.net | freemium |
+| [OpenMontage Drama Studio](https://openmontage.dtok.io) | https://openmontage.dtok.io | free |
+| [ReelMorph](https://reelmorph.app) | https://reelmorph.app | freemium |
+| [YIX](https://yix.ai) | https://yix.ai | freemium |
+| [Ideoy](https://ideoy.ai) | https://ideoy.ai | freemium |
+| [ShotTide](https://shottide.com) | https://shottide.com | freemium |

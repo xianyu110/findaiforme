@@ -1,6 +1,6 @@
 # Search & Data / 搜索与数据
 
-**104** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/search-data)
+**105** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/search-data)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -108,3 +108,4 @@
 | [Writeless](https://writeless.ai/) | https://writeless.ai/ | free |
 | [You.com](https://you.com) | https://you.com | freemium |
 | [YouMind](https://youmind.com/) | https://youmind.com/ | freemium |
+| [Lumno](https://lumno.kubai.design) | https://lumno.kubai.design | free |

@@ -1,6 +1,6 @@
 # Image & Design / 图像与设计
 
-**2040** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/image-design)
+**2042** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/image-design)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -2044,3 +2044,5 @@
 | [AI Image Combiner](https://ai-image-combiner.com) | https://ai-image-combiner.com | freemium |
 | [Paper Texture](https://paper-texture.com/paper-texture-overlay) | https://paper-texture.com/paper-texture-overlay | freemium |
 | [SparkPix](https://sparkpix.ai) | https://sparkpix.ai | freemium |
+| [Spaceora](https://spaceora.app) | https://spaceora.app | freemium |
+| [CarWrapDesign](https://carwrapdesign.app) | https://carwrapdesign.app | freemium |
