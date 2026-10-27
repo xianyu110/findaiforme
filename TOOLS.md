@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**9415** tools · updated 2026-10-26
+**9431** tools · updated 2026-10-27
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-10-27)
+
+- [Coze](https://www.coze.com)
+- [Tongyi Qianwen](https://tongyi.aliyun.com)
+- [Wenxin Yiyan](https://yiyan.baidu.com)
+- [Yuanbao](https://yuanbao.tencent.com)
+- [Tiangong AI](https://www.tiangong.cn)
+- [RAGFlow](https://ragflow.io)
+- [Langflow](https://www.langflow.org)
+- [Flowise](https://flowiseai.com)
+- [LibreChat](https://www.librechat.ai)
+- [Void](https://voideditor.com)
+- [Zed](https://zed.dev)
+- [OpenArt](https://openart.ai)
+- [Supermaven](https://supermaven.com)
+- [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat)
+- [Jimeng](https://jimeng.jianying.com)
 
 ## Recently added / 最近上架 (2026-10-26) · CN Indie
 
