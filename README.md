@@ -57,6 +57,14 @@
 
 提交即表示你确认对该工具有权推广，且内容真实、无恶意。
 
+### 收录标准 / Acceptance
+
+**接收 ✓** AI 原生工具 · AI 增强型 SaaS · AI 基础设施 · 任何含 AI 功能的工具  
+
+**不接收 ✗** 无 AI 的传统 SaaS · 电商 / 游戏 / 内容博客 · 静态营销页  
+
+详见提交页：[findaifor.me/submit](https://findaifor.me/submit)。
+
 ## Screenshots
 
 ### Home

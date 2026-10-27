@@ -27,3 +27,9 @@ npx wrangler d1 execute melodygift-db --remote --file=scripts/sql-batches/indie-
 node scripts/build-edge-snapshots.mjs
 npm run deploy
 ```
+
+## 收录标准（与主站一致）
+
+接收：AI 原生 / AI 增强 SaaS / AI 基础设施 / 含 AI 功能。  
+不接收：无 AI 传统 SaaS、电商/游戏/内容博客、静态营销页。
+
