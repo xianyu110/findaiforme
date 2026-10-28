@@ -1,11 +1,16 @@
 # FindAIForMe — All tools (flat list)
 
-**9455** tools · updated 2026-10-28
+**9458** tools · updated 2026-10-28
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
 
-## Recently added / 最近上架 (2026-10-28)
+## Recently added / 最近上架 (2026-10-28) · CN Indie
 
+- [ReclipMuse](https://www.reclipmuse.com)
+- [Choosin Texas AI](https://choosintexas.run)
+- [wywmysweetie AI](https://wywmysweetie.run)
+
+## Recently added
 - [Langfuse](https://langfuse.com)
 - [LiteLLM](https://www.litellm.ai)
 - [Mem0](https://mem0.ai)

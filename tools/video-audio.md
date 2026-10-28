@@ -1,6 +1,6 @@
 # Video & Audio / 视频与音频
 
-**757** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/video-audio)
+**760** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/video-audio)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -761,3 +761,6 @@
 | [YIX](https://yix.ai) | https://yix.ai | freemium |
 | [Ideoy](https://ideoy.ai) | https://ideoy.ai | freemium |
 | [ShotTide](https://shottide.com) | https://shottide.com | freemium |
+| [ReclipMuse](https://www.reclipmuse.com) | https://www.reclipmuse.com | paid |
+| [Choosin Texas AI](https://choosintexas.run) | https://choosintexas.run | paid |
+| [wywmysweetie AI](https://wywmysweetie.run) | https://wywmysweetie.run | paid |

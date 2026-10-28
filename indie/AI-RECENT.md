@@ -1,9 +1,12 @@
 # 独立开发者 AI 新站 · 最近同步
 
-更新日期（Asia/Shanghai）：**2026-10-27**
+更新日期（Asia/Shanghai）：**2026-10-28**
 
 | 名称 | 链接 | 简介 | 上游添加日 |
 |---|---|---|---|
+| [ReclipMuse](https://www.reclipmuse.com) | https://www.reclipmuse.com | 上传 1–3 张照片，选择 Hotel Lobby、Burning Bridges、Fireline 等效果，生成 5–30 秒 AI 说唱短视频（独立工具，非官方）；一次性积分… | 2026-10-28 |
+| [Choosin Texas AI](https://choosintexas.run) | https://choosintexas.run | 一张照片生成约 15 秒 9:16 emo 屋顶翻唱短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起 | 2026-10-27 |
+| [wywmysweetie AI](https://wywmysweetie.run) | https://wywmysweetie.run | 一张照片生成约 13 秒 9:16 jersey-club 舞蹈短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起 | 2026-10-27 |
 | [Spaceora](https://spaceora.app) | https://spaceora.app | AI 家居与花园设计工具，上传一张房间或庭院照片即可生成室内改造、虚拟布置、景观和后院设计效果，并可根据 USDA 种植区推荐植物；提供免费使用次数，生成结果用于设计构思而非精确… | 2026-10-27 |
 | [OpenMontage Drama Studio](https://openmontage.dtok.io) | https://openmontage.dtok.io | 开源 AI 短剧与短视频工坊，一句话灵感依次走完剧本、角色、场景、道具、分镜、配音、剪辑 7 个环节，也可用内置电商带货模板做广告片；无需登录可浏览灵感墙和示例，生成需登录并填写… | 2026-10-27 |
 | [Lumno](https://lumno.kubai.design) | https://lumno.kubai.design | 浏览器命令栏与新标签页扩展，任意网页一个快捷键同时搜索标签页、书签和历史记录，支持拼音搜中文、40+ 网站站内搜索和直接问 ChatGPT/DeepSeek 等 AI；免费开源（… | 2026-10-27 |
