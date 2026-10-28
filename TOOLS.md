@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**9440** tools · updated 2026-10-27
+**9455** tools · updated 2026-10-28
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-10-28)
+
+- [Langfuse](https://langfuse.com)
+- [LiteLLM](https://www.litellm.ai)
+- [Mem0](https://mem0.ai)
+- [CrewAI](https://www.crewai.com)
+- [Gradio](https://www.gradio.app)
+- [Streamlit](https://streamlit.io)
+- [Weaviate](https://weaviate.io)
+- [Chroma](https://www.trychroma.com)
+- [Tabby](https://www.tabbyml.com)
+- [Teachable Machine](https://teachablemachine.withgoogle.com)
+- [Voyage AI](https://www.voyageai.com)
+- [vLLM](https://vllm.ai)
+- [Stagehand](https://www.stagehand.dev)
+- [Docling](https://docling.ai)
+- [LangChain](https://www.langchain.com)
 
 ## Recently added / 最近上架 (2026-10-27) · CN Indie
 
