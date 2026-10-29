@@ -1,10 +1,29 @@
 # FindAIForMe — All tools (flat list)
 
-**9458** tools · updated 2026-10-28
+**9473** tools · updated 2026-10-29
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
 
+## Recently added / 最近上架 (2026-10-29)
+
+- [LanceDB](https://lancedb.com)
+- [Letta](https://www.letta.com)
+- [Zep](https://www.getzep.com)
+- [AG2](https://ag2.ai)
+- [Agno](https://www.agno.com)
+- [DSPy](https://dspy.ai)
+- [Pydantic AI](https://ai.pydantic.dev)
+- [Braintrust](https://www.braintrust.dev)
+- [DeepEval](https://deepeval.com)
+- [Ragas](https://www.ragas.io)
+- [Outlines](https://dottxt.ai)
+- [Instructor](https://python.useinstructor.com)
+- [OpenLIT](https://openlit.io)
+- [SGLang](https://www.sglang.io)
+- [AI SDK](https://ai-sdk.dev)
+
 ## Recently added / 最近上架 (2026-10-28) · CN Indie
+
 
 - [ReclipMuse](https://www.reclipmuse.com)
 - [Choosin Texas AI](https://choosintexas.run)
