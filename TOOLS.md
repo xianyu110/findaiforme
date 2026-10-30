@@ -1,8 +1,25 @@
 # FindAIForMe — All tools (flat list)
 
-**9473** tools · updated 2026-10-29
+**10669** tools · updated 2026-10-30
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-10-30)
+
+- [Google ADK](https://adk.dev)
+- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+- [Upsonic](https://www.upsonic.ai)
+- [Crawl4AI](https://crawl4ai.com)
+- [WebLLM](https://webllm.mlc.ai)
+- [txtai](https://neuml.github.io/txtai/)
+- [Griptape](https://www.griptape.ai)
+- [Serper](https://serper.dev)
+- [Boomy](https://boomy.com)
+- [Diffbot](https://www.diffbot.com)
+- [Promptise](https://www.promptise.com)
+- [Cassidy AI](https://www.cassidyai.com)
+- [PlatPost](https://platpost.com)
 
 ## Recently added / 最近上架 (2026-10-29)
 
