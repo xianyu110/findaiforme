@@ -1,6 +1,6 @@
 # FindAIForMe — Full AI Tools Catalog / 完整工具目录
 
-> Generated from the live catalog snapshot on **2026-10-30**. Total: **10669** tools.
+> Generated from the live catalog snapshot on **2026-10-31**. Total: **10690** tools.
 >
 > 数据来自 FindAIForMe 目录快照。官网：[https://findaifor.me/](https://findaifor.me/) · 提交工具：[https://findaifor.me/submit](https://findaifor.me/submit)
 

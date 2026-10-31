@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10669** tools · updated 2026-10-30
+**10690** tools · updated 2026-10-31
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-10-31)
+
+- [Milvus](https://milvus.io)
+- [Opik](https://www.comet.com/site/products/opik/)
+- [Evidently](https://www.evidentlyai.com)
+- [FastEmbed](https://qdrant.github.io/fastembed/)
+- [AutoGen](https://microsoft.github.io/autogen/)
+- [Dust](https://dust.tt)
+- [Botpress](https://botpress.com)
+- [Embedchain](https://embedchain.ai)
+- [Semantic Router](https://www.aurelio.ai/semantic-router)
+- [Axolotl](https://github.com/axolotl-ai-cloud/axolotl)
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+- [SWE-agent](https://swe-agent.com)
+- [smolagents](https://github.com/huggingface/smolagents)
+- [LangGraph](https://langchain-ai.github.io/langgraph/)
+- [Arize Phoenix](https://phoenix.arize.com)
 
 ## Recently added / 最近上架 (2026-10-30)
 
