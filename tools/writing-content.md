@@ -1,6 +1,6 @@
 # Writing & Content / 写作与内容
 
-**1263** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/writing-content)
+**1264** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/writing-content)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -394,6 +394,7 @@
 | [EssayFlow](https://essayflow.ai/) | https://essayflow.ai/ | freemium |
 | [EssayGenius](https://essaygenius.ai/) | https://essaygenius.ai/ | free |
 | [Essayly.ai](https://essayly.ai/) | https://essayly.ai/ | freemium |
+| [EssayMate](https://www.essaymate.io/) | https://www.essaymate.io/ | paid (free citation generator and essay grader) |
 | [EssayService.ai](https://essayservice.ai/) | https://essayservice.ai/ | free |
 | [EssayTyper](https://essaytyper.info/) | https://essaytyper.info/ | freemium |
 | [EssayWriter](https://essaywriter.io/) | https://essaywriter.io/ | free |
