@@ -1,9 +1,18 @@
 # 独立开发者 AI 新站 · 最近同步
 
-更新日期（Asia/Shanghai）：**2026-10-28**
+更新日期（Asia/Shanghai）：**2026-11-12**
 
 | 名称 | 链接 | 简介 | 上游添加日 |
 |---|---|---|---|
+| [AI秒记账](https://gist.githubusercontent.com/wujm12138/1cad024149ad8528c03a4286dcffcb58/raw/a097ee5ce7d86bf9b005d657c24d14fc53c8d8b4/ai-miaojizhang.jpg) | https://gist.githubusercontent.com/wujm12138/1cad024149ad8528c03a4286dcffcb58/raw/a097ee5ce7d86bf9b005d657c24d14fc53c8d8b4/ai-miaojizhang.jpg | 给经常出差、先替公司垫钱的人用的微信小程序。每趟出差单开一个账本，路上说一句或传张票就能记一笔，回来按趟导出 Excel | 2026-11-12 |
+| [Builderoom](https://www.builderoom.com) | https://www.builderoom.com | 独立开发者作品展台，用一句话描述需求就能找到软件，发布作品只需贴一个链接，AI 自动整理介绍与分类，免费提交、不卖排名 | 2026-11-12 |
+| [PhotoSway](https://photosway.com) | https://photosway.com | AI 照片变视频工具站，上传一张宠物照片，套用 Car Alarm、OIIA 猫等爆款跳舞模板做成短视频，附 15 篇分步教程；生成功能正在等候名单中 | 2026-11-12 |
+| [套餐雷达](https://taocanleida.com) | https://taocanleida.com | 国产 AI 编程 / Agent 订阅套餐对照站，汇总各档价格、额度和库存状态，每条尽量附官方来源和核对日期，免费查阅 | 2026-11-12 |
+| [FinchGram](https://www.finchgram.com) | https://www.finchgram.com | 开源的 macOS Telegram 第三方客户端，Rust + Slint 编写，支持多账号与 MCP（AI 工具接入） - 开源代码 | 2026-11-12 |
+| [欧八面试陪练](https://interview.redboook.cn) | https://interview.redboook.cn | 中文语音与文字 AI 面试陪练网站，结合目标岗位 JD 与个人真实经历，先练 1–2 分钟自我介绍，再用三道经历题进行连环追问、原话引用五维点评与初答重答对比；内置 AI 产品、… | 2026-11-12 |
+| [PitchReel](https://pitchreel.newkwlab.com) | https://pitchreel.newkwlab.com | 把文字简历变成竖版口播视频简历，带讲解和字幕，投递前还能先做一次 AI 就绪度评分 | 2026-11-12 |
+| [AI Rap Video](https://ai-rapvideo.cc) | https://ai-rapvideo.cc | AI 说唱视频生成工具，利用 AI 将照片转化为有趣的 Rap 风格短视频，适合社交媒体分享 | 2026-11-11 |
+| [AIBanlv Bot](https://aibanlv.ai) | https://aibanlv.ai | Windows / macOS 桌面 AI 伴侣，支持透明悬浮的 3D 形象、文字和语音交流，可连接 Harness、Codex 等工具处理任务；支持自备模型 Key 或使用平台… | 2026-11-11 |
 | [ReclipMuse](https://www.reclipmuse.com) | https://www.reclipmuse.com | 上传 1–3 张照片，选择 Hotel Lobby、Burning Bridges、Fireline 等效果，生成 5–30 秒 AI 说唱短视频（独立工具，非官方）；一次性积分… | 2026-10-28 |
 | [Choosin Texas AI](https://choosintexas.run) | https://choosintexas.run | 一张照片生成约 15 秒 9:16 emo 屋顶翻唱短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起 | 2026-10-27 |
 | [wywmysweetie AI](https://wywmysweetie.run) | https://wywmysweetie.run | 一张照片生成约 13 秒 9:16 jersey-club 舞蹈短视频（独立粉丝工具，非官方）；一次性积分包 $8.88 起 | 2026-10-27 |

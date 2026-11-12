@@ -1,6 +1,6 @@
 # Video & Audio / 视频与音频
 
-**760** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/video-audio)
+**763** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/video-audio)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -764,3 +764,6 @@
 | [ReclipMuse](https://www.reclipmuse.com) | https://www.reclipmuse.com | paid |
 | [Choosin Texas AI](https://choosintexas.run) | https://choosintexas.run | paid |
 | [wywmysweetie AI](https://wywmysweetie.run) | https://wywmysweetie.run | paid |
+| [PhotoSway](https://photosway.com) | https://photosway.com | freemium |
+| [PitchReel](https://pitchreel.newkwlab.com) | https://pitchreel.newkwlab.com | freemium |
+| [AI Rap Video](https://ai-rapvideo.cc) | https://ai-rapvideo.cc | freemium |

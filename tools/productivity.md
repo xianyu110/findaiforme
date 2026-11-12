@@ -1,6 +1,6 @@
 # Productivity / 效率工具
 
-**1331** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/productivity)
+**1332** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/productivity)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -1335,3 +1335,4 @@
 | [育児記録 - コロネ colone](https://colone.app/en) | https://colone.app/en | freemium |
 | [观易堂](https://guanyitang.com/) | https://guanyitang.com/ | freemium |
 | [ViewHTML](https://viewhtml.app) | https://viewhtml.app | freemium |
+| [AI秒记账](https://gist.githubusercontent.com/wujm12138/1cad024149ad8528c03a4286dcffcb58/raw/a097ee5ce7d86bf9b005d657c24d14fc53c8d8b4/ai-miaojizhang.jpg) | https://gist.githubusercontent.com/wujm12138/1cad024149ad8528c03a4286dcffcb58/raw/a097ee5ce7d86bf9b005d657c24d14fc53c8d8b4/ai-miaojizhang.jpg | freemium |

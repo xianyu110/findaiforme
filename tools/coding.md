@@ -1,6 +1,6 @@
 # Coding & Dev Tools / 编程与开发
 
-**527** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/coding)
+**531** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/coding)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -531,3 +531,7 @@
 | [Zhipu AI Open Platform](https://bigmodel.cn/) | https://bigmodel.cn/ | free |
 | [Zilliz](https://zilliz.com/) | https://zilliz.com/ | freemium |
 | [巨浪 AI](https://jvlangai.com) | https://jvlangai.com | freemium |
+| [Builderoom](https://www.builderoom.com) | https://www.builderoom.com | freemium |
+| [套餐雷达](https://taocanleida.com) | https://taocanleida.com | freemium |
+| [欧八面试陪练](https://interview.redboook.cn) | https://interview.redboook.cn | free |
+| [AIBanlv Bot](https://aibanlv.ai) | https://aibanlv.ai | freemium |

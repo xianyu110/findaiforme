@@ -1,11 +1,22 @@
 # FindAIForMe — All tools (flat list)
 
-**10857** tools · updated 2026-11-12
+**10866** tools · updated 2026-11-12
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
 
-## Recently added / 最近上架 (2026-11-12)
+## Recently added / 最近上架 (2026-11-12) · CN Indie
 
+- [AI秒记账](https://gist.githubusercontent.com/wujm12138/1cad024149ad8528c03a4286dcffcb58/raw/a097ee5ce7d86bf9b005d657c24d14fc53c8d8b4/ai-miaojizhang.jpg)
+- [Builderoom](https://www.builderoom.com)
+- [PhotoSway](https://photosway.com)
+- [套餐雷达](https://taocanleida.com)
+- [FinchGram](https://www.finchgram.com)
+- [欧八面试陪练](https://interview.redboook.cn)
+- [PitchReel](https://pitchreel.newkwlab.com)
+- [AI Rap Video](https://ai-rapvideo.cc)
+- [AIBanlv Bot](https://aibanlv.ai)
+
+## Recently added
 - [SAM 2](https://github.com/facebookresearch/sam2)
 - [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)
 - [CogVideo](https://github.com/zai-org/CogVideo)
