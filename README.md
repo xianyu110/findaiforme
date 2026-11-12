@@ -20,9 +20,9 @@
 
 ## 目录规模 / Catalog size
 
-**以官网实时数据为准**（核对日期：2026-11-06，来源：D1 `aitoolsdir_tools` / [findaifor.me](https://findaifor.me/)）：
+**以官网实时数据为准**（核对日期：2026-11-12，来源：D1 `aitoolsdir_tools` / [findaifor.me](https://findaifor.me/)）：
 
-- 约 **10,782** 个 AI 工具
+- 约 **10,857** 个 AI 工具
 - **12** 个分类
 
 本仓库 `tools/`、`TOOLS.md` 是便于浏览的 Markdown 快照（上次全量导出：2026-11-01，约 10,705 条 / 当时 11 个分类文件）。快照可能与官网略有出入；**请以 https://findaifor.me/ 为准**。

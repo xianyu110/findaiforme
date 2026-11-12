@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10782** tools · updated 2026-11-06
+**10857** tools · updated 2026-11-12
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-12)
+
+- [SAM 2](https://github.com/facebookresearch/sam2)
+- [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)
+- [CogVideo](https://github.com/zai-org/CogVideo)
+- [Wan Video](https://wan.video)
+- [MLC LLM](https://llm.mlc.ai)
+- [LMDeploy](https://github.com/InternLM/lmdeploy)
+- [RamaLama](https://ramalama.ai)
+- [WhisperX](https://github.com/m-bain/whisperX)
+- [Piper](https://github.com/OHF-Voice/piper1-gpl)
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM/)
+- [Sentence Transformers](https://www.sbert.net)
+- [ACE-Step](https://ace-step.github.io/)
+- [FAISS](https://faiss.ai)
 
 ## Recently added / 最近上架 (2026-11-06)
 
