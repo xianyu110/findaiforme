@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10866** tools · updated 2026-11-12
+**10882** tools · updated 2026-11-13
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-13)
+
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [Kokoro TTS](https://github.com/hexgrad/kokoro)
+- [PaddleOCR](https://paddleocr.com)
+- [DeepSpeed](https://www.deepspeed.ai)
+- [Qwen-Image](https://github.com/QwenLM/Qwen-Image)
+- [ControlNet](https://github.com/lllyasviel/ControlNet)
+- [FunASR](https://www.funasr.com)
+- [Depth Anything](https://depth-anything-v2.github.io)
+- [STORM](https://storm.genie.stanford.edu)
+- [YuE](https://map-yue2.github.io/)
+- [Chatterbox TTS](https://resemble-ai.github.io/chatterbox_demopage/)
+- [OpenCLIP](https://github.com/mlfoundations/open_clip)
+- [Vane](https://github.com/ItzCrazyKns/Vane)
+- [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)
+- [PEFT](https://github.com/huggingface/peft)
 
 ## Recently added / 最近上架 (2026-11-12) · CN Indie
 
@@ -16,7 +34,8 @@ Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
 - [AI Rap Video](https://ai-rapvideo.cc)
 - [AIBanlv Bot](https://aibanlv.ai)
 
-## Recently added
+## Recently added / 最近上架 (2026-11-12)
+
 - [SAM 2](https://github.com/facebookresearch/sam2)
 - [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)
 - [CogVideo](https://github.com/zai-org/CogVideo)
