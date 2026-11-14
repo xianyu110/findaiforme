@@ -20,9 +20,9 @@
 
 ## 目录规模 / Catalog size
 
-**以官网实时数据为准**（核对日期：2026-11-13，来源：D1 `aitoolsdir_tools` / [findaifor.me](https://findaifor.me/)）：
+**以官网实时数据为准**（核对日期：2026-11-14，来源：D1 `aitoolsdir_tools` / [findaifor.me](https://findaifor.me/)）：
 
-- 约 **10,882** 个 AI 工具
+- 约 **10,897** 个 AI 工具
 - **12** 个分类
 
 本仓库 `tools/`、`TOOLS.md` 是便于浏览的 Markdown 快照（上次全量导出：2026-11-01，约 10,705 条 / 当时 11 个分类文件）。快照可能与官网略有出入；**请以 https://findaifor.me/ 为准**。
@@ -34,16 +34,16 @@
 
 | Category | 中文 | Live count | Live | Snapshot file |
 |---|---|---:|---|---|
-| Image & Design | 图像与设计 | 2,731 | [findaifor.me](https://findaifor.me/categories/image-design) | [tools/image-design.md](./tools/image-design.md) |
-| Video & Audio | 视频与音频 | 1,411 | [findaifor.me](https://findaifor.me/categories/video-audio) | [tools/video-audio.md](./tools/video-audio.md) |
+| Image & Design | 图像与设计 | 2,736 | [findaifor.me](https://findaifor.me/categories/image-design) | [tools/image-design.md](./tools/image-design.md) |
+| Video & Audio | 视频与音频 | 1,412 | [findaifor.me](https://findaifor.me/categories/video-audio) | [tools/video-audio.md](./tools/video-audio.md) |
 | Writing & Content | 写作与内容 | 2,233 | [findaifor.me](https://findaifor.me/categories/writing-content) | [tools/writing-content.md](./tools/writing-content.md) |
-| Coding & Dev Tools | 编程与开发 | 968 | [findaifor.me](https://findaifor.me/categories/coding) | [tools/coding.md](./tools/coding.md) |
+| Coding & Dev Tools | 编程与开发 | 974 | [findaifor.me](https://findaifor.me/categories/coding) | [tools/coding.md](./tools/coding.md) |
 | Productivity | 效率工具 | 2,147 | [findaifor.me](https://findaifor.me/categories/productivity) | [tools/productivity.md](./tools/productivity.md) |
 | Marketing & SEO | 营销与 SEO | 1,492 | [findaifor.me](https://findaifor.me/categories/marketing-seo) | [tools/marketing-seo.md](./tools/marketing-seo.md) |
-| Voice & Translation | 语音与翻译 | 703 | [findaifor.me](https://findaifor.me/categories/voice-translation) | [tools/voice-translation.md](./tools/voice-translation.md) |
+| Voice & Translation | 语音与翻译 | 706 | [findaifor.me](https://findaifor.me/categories/voice-translation) | [tools/voice-translation.md](./tools/voice-translation.md) |
 | Business & Operations | 商业与运营 | 1,121 | [findaifor.me](https://findaifor.me/categories/business) | [tools/business.md](./tools/business.md) |
 | Education & Research | 教育与研究 | 1,176 | [findaifor.me](https://findaifor.me/categories/education) | [tools/education.md](./tools/education.md) |
-| Search & Data | 搜索与数据 | 505 | [findaifor.me](https://findaifor.me/categories/search-data) | [tools/search-data.md](./tools/search-data.md) |
+| Search & Data | 搜索与数据 | 507 | [findaifor.me](https://findaifor.me/categories/search-data) | [tools/search-data.md](./tools/search-data.md) |
 | Automation & Workflow | 自动化与工作流 | 308 | [findaifor.me](https://findaifor.me/categories/automation) | _(snapshot pending — see live)_ |
 | Directories & Discovery | 目录与发现 | 313 | [findaifor.me](https://findaifor.me/categories/directories) | [tools/directories.md](./tools/directories.md) |
 

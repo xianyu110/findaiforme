@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**10882** tools · updated 2026-11-13
+**10897** tools · updated 2026-11-14
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-14)
+
+- [Transformers](https://github.com/huggingface/transformers)
+- [Diffusers](https://github.com/huggingface/diffusers)
+- [TRL](https://github.com/huggingface/trl)
+- [OpenAI Whisper](https://github.com/openai/whisper)
+- [Moshi](https://github.com/kyutai-labs/moshi)
+- [SenseVoice](https://github.com/QwenAudio/SenseVoice)
+- [InternVL](https://github.com/OpenGVLab/InternVL)
+- [Moondream](https://moondream.ai)
+- [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO)
+- [DINOv3](https://github.com/facebookresearch/dinov3)
+- [AudioCraft](https://github.com/facebookresearch/audiocraft)
+- [verl](https://github.com/verl-project/verl)
+- [Transformers.js](https://huggingface.co/docs/transformers.js)
+- [olmOCR](https://github.com/allenai/olmocr)
+- [Xinference](https://github.com/xorbitsai/inference)
 
 ## Recently added / 最近上架 (2026-11-13)
 
