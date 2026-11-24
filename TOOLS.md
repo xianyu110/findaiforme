@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**11033** tools · updated 2026-11-23
+**11050** tools · updated 2026-11-24
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-24)
+
+- [KeyBERT](https://github.com/MaartenGr/KeyBERT)
+- [ColPali](https://github.com/illuin-tech/colpali)
+- [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank)
+- [XGrammar](https://github.com/mlc-ai/xgrammar)
+- [LitServe](https://github.com/Lightning-AI/LitServe)
+- [VGGT](https://github.com/facebookresearch/vggt)
+- [MoGe](https://github.com/microsoft/MoGe)
+- [VibeVoice](https://github.com/microsoft/VibeVoice)
+- [Sherpa-ONNX](https://github.com/k2-fsa/sherpa-onnx)
+- [Vosk](https://github.com/alphacep/vosk-api)
+- [MergeKit](https://github.com/arcee-ai/mergekit)
+- [sqlite-vec](https://github.com/asg017/sqlite-vec)
+- [TRELLIS](https://github.com/microsoft/TRELLIS)
+- [hnswlib](https://github.com/nmslib/hnswlib)
+- [Vocos](https://github.com/gemelo-ai/vocos)
 
 ## Recently added / 最近上架 (2026-11-23)
 
