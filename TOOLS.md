@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**11050** tools · updated 2026-11-24
+**11066** tools · updated 2026-11-25
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-25)
+
+- [Kyutai DSM](https://github.com/kyutai-labs/delayed-streams-modeling)
+- [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)
+- [Depth Pro](https://github.com/apple-aiml-research/ml-depth-pro)
+- [BiRefNet](https://github.com/ZhengPeng7/BiRefNet)
+- [Hunyuan3D 2.0](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)
+- [InstantMesh](https://github.com/TencentARC/InstantMesh)
+- [MuseTalk](https://github.com/TMElyralab/MuseTalk)
+- [LatentSync](https://github.com/bytedance/LatentSync)
+- [SadTalker](https://github.com/OpenTalker/SadTalker)
+- [RAGatouille](https://github.com/AnswerDotAI/RAGatouille)
+- [Cog](https://github.com/replicate/cog)
+- [GPTQModel](https://github.com/ModelCloud/GPTQModel)
+- [SAM-HQ](https://github.com/SysCV/sam-hq)
+- [RT-DETR](https://github.com/lyuwenyu/RT-DETR)
+- [SANA](https://github.com/NVlabs/Sana)
 
 ## Recently added / 最近上架 (2026-11-24)
 
