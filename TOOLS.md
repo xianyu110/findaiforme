@@ -1,10 +1,29 @@
 # FindAIForMe — All tools (flat list)
 
-**11066** tools · updated 2026-11-25
+**11081** tools · updated 2026-11-26
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
 
+## Recently added / 最近上架 (2026-11-26)
+
+- [CLIP](https://github.com/openai/CLIP)
+- [Dia](https://github.com/nari-labs/dia)
+- [PhotoMaker](https://github.com/TencentARC/PhotoMaker)
+- [Spark-TTS](https://github.com/SparkAudio/Spark-TTS)
+- [dots.ocr](https://github.com/studio-dots-ai/dots.ocr)
+- [IC-Light](https://github.com/lllyasviel/IC-Light)
+- [Higgs Audio](https://github.com/boson-ai/higgs-audio)
+- [SkyReels V2](https://github.com/SkyworkAI/SkyReels-V2)
+- [MLX LM](https://github.com/ml-explore/mlx-lm)
+- [InternLM](https://github.com/InternLM/InternLM)
+- [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
+- [Orpheus TTS](https://github.com/canopyai/Orpheus-TTS)
+- [llama-swap](https://github.com/mostlygeek/llama-swap)
+- [BAGEL](https://github.com/ByteDance-Seed/Bagel)
+- [DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2)
+
 ## Recently added / 最近上架 (2026-11-25)
+
 
 - [Kyutai DSM](https://github.com/kyutai-labs/delayed-streams-modeling)
 - [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)
