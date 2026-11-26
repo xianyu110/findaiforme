@@ -1,6 +1,6 @@
 # Education & Research / 教育与研究
 
-**913** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/education)
+**914** tools · [← Catalog index](./INDEX.md) · [Site](https://findaifor.me/categories/education)
 
 | Name | URL | Pricing |
 |---|---|---|
@@ -724,6 +724,7 @@
 | [Study Point AI](https://studypointai.com/) | https://studypointai.com/ | freemium |
 | [Study Potion AI](https://studypotion.ai/) | https://studypotion.ai/ | free |
 | [Study Tale](https://study-tale.com/) | https://study-tale.com/ | freemium |
+| [StudyArena](https://studyarena.com) | https://studyarena.com | freemium |
 | [Studyable](https://studyable.app/) | https://studyable.app/ | free |
 | [Studyflash](https://studyflash.ai/) | https://studyflash.ai/ | freemium |
 | [StudyFox](https://studyfox.pro/) | https://studyfox.pro/ | freemium |
