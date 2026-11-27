@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**11081** tools · updated 2026-11-26
+**11097** tools · updated 2026-11-27
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-27)
+
+- [FlashInfer](https://github.com/flashinfer-ai/flashinfer)
+- [SageAttention](https://github.com/thu-ml/SageAttention)
+- [EchoMimic](https://github.com/antgroup/echomimic)
+- [MimicMotion](https://github.com/Tencent/MimicMotion)
+- [EnCodec](https://github.com/facebookresearch/encodec)
+- [MLX-VLM](https://github.com/Neywa-Labs/mlx-vlm)
+- [CogVLM2](https://github.com/zai-org/CogVLM2)
+- [Emu3](https://github.com/baaivision/Emu3)
+- [Grounded SAM 2](https://github.com/IDEA-Research/Grounded-SAM-2)
+- [Mochi](https://github.com/genmoai/mochi)
+- [FireRedASR](https://github.com/FireRedTeam/FireRedASR)
+- [Hallo2](https://github.com/fudan-generative-vision/hallo2)
+- [OmniParser](https://github.com/microsoft/OmniParser)
+- [Moonshine](https://github.com/moonshine-ai/moonshine)
+- [OpenVLA](https://github.com/openvla/openvla)
 
 ## Recently added / 最近上架 (2026-11-26)
 
