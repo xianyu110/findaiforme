@@ -1,8 +1,26 @@
 # FindAIForMe — All tools (flat list)
 
-**11097** tools · updated 2026-11-27
+**11116** tools · updated 2026-11-28
 
 Prefer browsing by category? See [`tools/INDEX.md`](./tools/INDEX.md).
+
+## Recently added / 最近上架 (2026-11-28)
+
+- [Open-R1](https://github.com/huggingface/open-r1)
+- [ggml](https://github.com/ggml-org/ggml)
+- [Zonos](https://github.com/Zyphra/Zonos)
+- [PuLID](https://github.com/ToTheBeginning/PuLID)
+- [ShowUI](https://github.com/showlab/ShowUI)
+- [Unique3D](https://github.com/AiuniAI/Unique3D)
+- [Qwen3](https://github.com/QwenLM/Qwen3)
+- [EvalPlus](https://github.com/evalplus/evalplus)
+- [icefall](https://github.com/k2-fsa/icefall)
+- [TileLang](https://github.com/tile-ai/tilelang)
+- [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
+- [Open-Instruct](https://github.com/allenai/open-instruct)
+- [Verifiers](https://github.com/PrimeIntellect-ai/verifiers)
+- [ConsisID](https://github.com/PKU-YuanGroup/ConsisID)
+- [FireRedTTS2](https://github.com/FireRedTeam/FireRedTTS2)
 
 ## Recently added / 最近上架 (2026-11-27)
 
